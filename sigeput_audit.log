@@ -1,0 +1,38 @@
+[2026-10-27 18:27:28] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad con placa/código: Taz-123
+[2026-10-27 18:27:37] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad con placa/código: TAZ-123
+[2026-10-27 18:27:37] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Autorización y lectura correcta de bus: TAZ-123
+[2026-10-27 18:27:47] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Cierre de sesión en Garita Principal
+[2026-10-27 18:35:08] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad con placa/código: UT-045
+[2026-10-27 18:35:09] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Autorización y lectura correcta de bus: UT-045
+[2026-10-27 18:42:53] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad con placa/código: TAZ-123
+[2026-10-27 18:43:17] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad con placa/código: YAT-327
+[2026-10-27 18:49:09] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad con placa/código: TAZ-123
+[2026-10-27 18:49:45] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Registro de SALIDA para bus TAZ-123 con km: 0
+[2026-10-27 18:50:17] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Registro de LLEGADA para bus TAZ-123 con km: 5000
+[2026-10-27 18:50:26] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad con placa/código: TAZ-123
+[2026-10-27 18:51:41] USUARIO: Administrador / Vigilante - ACCIÓN: Registro de nuevo bus con placa: ZXC-123
+[2026-10-27 19:08:30] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ-123
+[2026-10-27 19:09:42] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Registro de SALIDA para BUS-02 (TAZ-123) - Km: 89300.0
+[2026-10-27 19:10:22] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Registro de SALIDA para BUS-02 (TAZ-123) - Km: 1.212422342342342E15
+[2026-10-27 19:10:30] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ-123
+[2026-10-27 19:13:04] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ-123
+[2026-10-27 19:17:12] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Registro de SALIDA para BUS-02 (TAZ-123) - Km: 89300.0
+[2026-10-27 19:19:54] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: 1
+[2026-10-27 19:20:20] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ-123
+[2026-10-27 19:22:39] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Registro de LLEGADA para BUS-02 (TAZ-123) - Km: 89400.0
+[2026-10-27 19:22:56] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ.123
+[2026-10-27 19:23:26] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ-123
+[2026-10-27 19:25:13] USUARIO: Administrador - ACCIÓN: Alta de autobús: ASD-123 | Placa: AHS123
+[2026-10-27 19:25:23] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: ASD-123
+[2026-10-27 19:26:08] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Cierre de sesión en Garita Principal
+[2026-10-27 19:39:38] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ-123
+[2026-10-27 19:40:21] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: QWE-123
+[2026-10-27 19:49:05] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ-123
+[2026-10-27 19:49:45] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Registro de SALIDA para BUS-02 (TAZ-123) - Km: 0.0
+[2026-10-27 19:49:53] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ-123
+[2026-10-27 19:50:41] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Registro de LLEGADA para BUS-02 (TAZ-123) - Km: 85600.0
+[2026-10-27 19:50:47] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ-123
+[2026-10-27 20:15:02] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Cierre de sesión en Garita Principal
+[2026-10-27 20:15:51] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ-123
+[2026-10-27 20:16:05] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Consulta general del Monitor de Flota
+[2026-11-02 09:27:51] USUARIO: Vigilante Carlos Pérez - ACCIÓN: Búsqueda de unidad: TAZ-123
